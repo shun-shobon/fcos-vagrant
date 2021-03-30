@@ -1,0 +1,4 @@
+/http/**
+!/http/.gitkeep
+/build/
+/packer_cache/
